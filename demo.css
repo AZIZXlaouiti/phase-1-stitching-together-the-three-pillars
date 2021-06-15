@@ -34,3 +34,6 @@ article.media-post > footer {
 article.media-post > footer ul {
   list-style-type: none;
 }
+footer > ul > li > span.like-glyph:hover{
+  cursor: pointer;
+}
